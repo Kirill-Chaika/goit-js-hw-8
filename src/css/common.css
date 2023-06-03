@@ -16,3 +16,10 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.refs {
+  border: 1px solid rgb(71, 129, 255);
+  display: block;
+  border-radius: 4px;
+  padding: 10px;
+}
